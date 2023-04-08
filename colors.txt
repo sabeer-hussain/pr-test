@@ -8,3 +8,4 @@ red
 white
 black
 dark light brown
+cyan
